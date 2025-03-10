@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Muhammad Sharib]
+# Hi there 👋 I'm Muhammad Sharib
 
 ## 👨‍🎓 Background
 I'm a Bachelor of Commerce graduate who is currently expanding my horizons by diving into **Agentic AI Robotics Engineering**. My goal is to bridge the gap between commerce and technology, utilizing my unique perspective to contribute to innovative solutions.
