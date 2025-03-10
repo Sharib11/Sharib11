@@ -25,7 +25,7 @@ I'm a Bachelor of Commerce graduate who is currently expanding my horizons by di
 I’m looking to connect with like-minded individuals who are passionate about AI, robotics, and technology. Let's learn from each other and collaborate on exciting projects!
 
 ## 📫 Connect with Me
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/muhammad-sharib-995354228/)
+- [LinkedIn] (https://www.linkedin.com/in/muhammad-sharib-995354228/)
   
 
 Thanks for visiting my profile! Feel free to reach out.
